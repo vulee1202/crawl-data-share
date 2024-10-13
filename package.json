@@ -1,0 +1,21 @@
+{
+  "name": "crawl-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ansicolor": "^2.0.3",
+    "cheerio": "^1.0.0-rc.12",
+    "image-downloader": "^4.3.0",
+    "ololog": "^1.1.175",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "type": "module"
+}
